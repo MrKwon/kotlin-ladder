@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/git/java-baseball" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/java-lotto" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/java-movie" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/java-racingcar" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../java-ladder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../java-racingcar" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="959" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
